@@ -1,5 +1,15 @@
 # Changelog
 
+
+## April 2024
+
+| Date                    | Feature Description                                                                                                                                                                                                               |
+|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <nobr>2024-04-01</nobr> | If you are a heavy user of report generation the report overview can become crowded. This is why we introduced favourites. You can now mark your most important reports so that they will always be shown at the top of the list. |
+
+
+## March 2024
+
 | Date                    | Feature Description                                                                                                                                                                                                                                                                                                                                                  |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <nobr>2024-03-31</nobr> | We introduced a great new feature: report series. For the moment we only use it internally but in the near future we will also roll it out to all `business` customers. A series is a report that reruns in a defined interval. We use it to create weekly reports in our "State of internet" category.                                                              |

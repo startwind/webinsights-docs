@@ -7,8 +7,17 @@ This is also **your chance** to influence the product. So feel free to contact u
 
 ## Version 2
 
-The next version will focus on hosting companies and we want to answer some questions with this use case:
+The next version will **focus on hosting companies** and we want to answer some questions with this use case:
 
 - Who are "my" customers?
+  - As a hosting company I am able to upload a list of domains that are hosted on my servers
+  - As a hosting company I am able to define my IP range and WI will automatically find domains hosted on my servers.
+  - As a hosting company I am able to see industry my customers are active in.
+  - As a hosting company I am able to classify my customers in predefined personas (e.g. small online shops or agencies).
+  - BUSINESS: As a hosting company I am able to classify my customers in self-defined personas.
+
+
 - What hosting products fit those customers?
+
+
 - How to up- and cross-sell to those customers?

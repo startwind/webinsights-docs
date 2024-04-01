@@ -3,10 +3,11 @@
 
 ## April 2024
 
-| Date                    | Feature Description                                                                                                                                                                                                                                 |
-|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <nobr>2024-04-01</nobr> | If you are a heavy user of report generation the report overview can become crowded. This is why we introduced favourites. You can now mark your most important reports so that they will always be shown on the top of the list.                   |
-| <nobr>2024-04-01</nobr> | We crawled the first **5,000,000 websites**. This is only a fraction of the whole internet but for us it is the first milestone that shows that the technology behind WebInsights works and we can now shoot for the 200,000,000 domains out there. |
+| Date                    | Feature Description                                                                                                                                                                                                                                                                    |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <nobr>2024-04-02</nobr> | We always have a close look at the technologies websites are using This is why we added three new CMS to the "State of Internet" reports. It is the "GoDaddy Website Builder", Jimdo and "HubSport CMS Hub". Feel free to contact us, if you think we are missing an important system. |
+| <nobr>2024-04-01</nobr> | If you are a heavy user of report generation the report overview can become crowded. This is why we introduced favourites. You can now mark your most important reports so that they will always be shown on the top of the list.                                                      |
+| <nobr>2024-04-01</nobr> | We crawled the first **5,000,000 websites**. This is only a fraction of the whole internet but for us it is the first milestone that shows that the technology behind WebInsights works and we can now shoot for the 200,000,000 domains out there.                                    |
 
 
 ## March 2024

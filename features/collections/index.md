@@ -47,8 +47,6 @@ Of course you can always upload separate lists as a `pro` customer and have the 
 
 After the collection was uploaded and you select it in the builder interface a new field `Private Tags` will appear. Here you can use the tags you predefined.
 
-![private-tags.png](../../images/private-tags.png)
-
 It is important that only you can query those tags. They are bound to your collection and not visible for others.
 
 

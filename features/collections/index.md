@@ -20,7 +20,7 @@ There are some standard use-cases that can inspire you but you are not limited b
 
 You can simply create a collection by uploading a CSV file to our system.
 
-- [Read more about File Upload](/docs/features/collections/csv.md)
+- [Read more about File Upload](/docs/features/collections/csv)
 
 
 

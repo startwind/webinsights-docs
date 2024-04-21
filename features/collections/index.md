@@ -24,3 +24,11 @@ You can simply create a collection by uploading a CSV file to our system.
 
 
 
+
+## Autonomous System Number (ASN)
+
+Hosting companies are connected to the IP ranges they own, which are defined by one or more ASNs. Customers can create collections based on those numbers.
+
+- [Read more about ASN](/docs/features/collections/asn)
+
+

@@ -1,5 +1,11 @@
 # Changelog
 
+## May 2024
+
+| Date                    | Feature Description                                                                                                                                                |
+|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <nobr>2024-05-01</nobr> | For all the business plan customers we have a great new feature. When uploading a list of domains you are now allowed to set the max age of already done analysis. If you chose that an analysis can be one month old the collection scan will be very fast, but the data is up to one month old. If you choose that you want recent data the crawl takes longer. It's your choice now. 
+
 ## April 2024
 
 | Date                    | Feature Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |

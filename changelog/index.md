@@ -4,7 +4,8 @@
 
 | Date                    | Feature Description                                                                                                                                                |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <nobr>2024-05-05</nobr> | Focus, focus, focus. As WebInsights is primally focused on hosting companies we build a very nice feature for this target group. <br>With this version we are introducing the "hosting insights" category. We started with a list of all companies worldwide that provide hosting. It's more than 10,000 and we show everything we can extract out of the AS information, their homepage and other sources.
+| <nobr>2024-05-05</nobr> | The list of hosting companies now has a filter that help find the company faster.
+| <nobr>2024-05-04</nobr> | Focus, focus, focus. As WebInsights is primally focused on hosting companies we build a very nice feature for this target group. <br>With this version we are introducing the "hosting insights" category. We started with a list of all companies worldwide that provide hosting. It's more than 10,000 and we show everything we can extract out of the AS information, their homepage and other sources.
 | <nobr>2024-05-01</nobr> | For all the business plan customers we have a great new feature. When uploading a list of domains you are now allowed to set the max age of already done analysis. If you chose that an analysis can be one month old the collection scan will be very fast, but the data is up to one month old. If you choose that you want recent data the crawl takes longer. It's your choice now. 
 
 ## April 2024

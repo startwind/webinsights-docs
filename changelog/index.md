@@ -4,6 +4,7 @@
 
 | Date                    | Feature Description                                                                                                                                                |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <nobr>2024-05-09</nobr> | When it comes to hosting comapnies they can be devided in two segments: those who have their own datacenters and those who just resell. In our hosting company insights you can now filter for this criteria. 
 | <nobr>2024-05-05</nobr> | We added the web hosting products that the companies provide as an report. You can now see what products are commonly sold and which are more rare. This will help you to find your perfect matching product portfolio. 
 | <nobr>2024-05-05</nobr> | The list of hosting companies now has a filter that help find the company faster.
 | <nobr>2024-05-04</nobr> | Focus, focus, focus. As WebInsights is primally focused on hosting companies we build a very nice feature for this target group. <br>With this version we are introducing the "hosting insights" category. We started with a list of all companies worldwide that provide hosting. It's more than 10,000 and we show everything we can extract out of the AS information, their homepage and other sources.

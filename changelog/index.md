@@ -4,6 +4,8 @@
 
 | Date                    | Feature Description                                                                                                                                                |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <nobr>2024-05-20</nobr> | What a week and what a new feature. WebInsights in now able to show the newest blog posts that were written by hosting companies. On a daily basis we scan over 1,500 RSS feeds to show the newest information that companies share with their clients. <br> All posts are enriched with a screenshot. 
+| <nobr>2024-05-12</nobr> | On the hosting details page you can now see all the other hosting companies that share one ASN (autonomous system number). Normally that means those companies are using then as a co-location or are resellers. 
 | <nobr>2024-05-09</nobr> | When it comes to hosting comapnies they can be devided in two segments: those who have their own datacenters and those who just resell. In our hosting company insights you can now filter for this criteria. 
 | <nobr>2024-05-05</nobr> | We added the web hosting products that the companies provide as an report. You can now see what products are commonly sold and which are more rare. This will help you to find your perfect matching product portfolio. 
 | <nobr>2024-05-05</nobr> | The list of hosting companies now has a filter that help find the company faster.

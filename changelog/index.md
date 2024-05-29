@@ -4,7 +4,8 @@
 
 | Date                    | Feature Description                                                                                                                                                |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <nobr>2024-05-26</nobr> | It's tag time again. When you click on the tags of the blog posts we found this sets a filter and onyl posts with this tag are shown.
+| <nobr>2024-05-27</nobr> | Deeplinks now work. Before that release we where not able to redirect you to the site you wanted to see after login. That changed. After login you are now redirected to the page you came from. 
+| <nobr>2024-05-26</nobr> | It's tag time again. When you click on the tags of the blog posts we found this sets a filter and only posts with this tag are shown.
 | <nobr>2024-05-25</nobr> | Small but nice. We now show the list of tags we found on all recent blog posts. 
 | <nobr>2024-05-20</nobr> | Collections are the backbone of good reports in WebInsight. We have added a new one that can be used by every user. It is called "Hosting Companies" and includes all companies where their homepages suggest that they are doing hosting stuff.
 | <nobr>2024-05-20</nobr> | We introduced a lot of small little changes today. First of all (and this is not too small) we updated the product portfolio for hosting companies. This means we now can for about 200 products on the companies homepages to give you the best overview on what is going on in the hosting sector.<br>Additionally we added tags to the blog post overview. This means you can now see (and soon filter for) the tags. This makes it much more readable. 

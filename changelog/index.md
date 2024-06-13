@@ -4,6 +4,7 @@
 
 | Date                    | Feature Description                                                                                                                                                                                                                                              |
 |-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <nobr>2024-06-13</nobr> | We love the build in public approach. That is why sometimes features you would expect to be there are coming later. This for example is true for the possibility to change you password. It's live now. 
 | <nobr>2024-06-09</nobr> | Who are the winners and losers in the hosting industry of this week? Why now got the numbers and share it with you. Every we check more then 240 millions website IPs and assign them to an ASN. With that information we know what is happening in the market.# 
 | <nobr>2024-06-02</nobr> | For every tier 1 hoster (hosting company with their own ASN) we show the number of new and the number of leaving customers on a weekly base.                                                                                                                     |
 

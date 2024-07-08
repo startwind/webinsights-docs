@@ -2,18 +2,19 @@
 
 ## July 2024
 
-| Date                    | Feature Description                                                                                                                                                                               |
-|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <nobr>2024-07-06</nobr> | We enriched the hosting company data with social media profiles. Now you can see the different links on the companies detail page. At the moment we recognize LinkedIn, Twitter (X) and Facebook. |
-
+| Date                    | Feature Description                                                                                                                                                                                                       |
+|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <nobr>2024-07-06</nobr> | We enriched the hosting company data with social media profiles. Now you can see the different links on the companies detail page. At the moment we recognize LinkedIn, Twitter (X) and Facebook.                         |
+| <nobr>2024-07-05</nobr> | It's a lot of manual work, but someone has to do it. We connected all autonomous systems (AS) that are used in WebInsights with the company that owns it. Now you can see all  Tier 1 hosters and compare them very easy. |
 
 ## June 2024
 
-| Date                    | Feature Description                                                                                                                                                                                                                                              |
-|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <nobr>2024-06-13</nobr> | We love the build in public approach. That is why sometimes features you would expect to be there are coming later. This for example is true for the possibility to change you password. It's live now. 
-| <nobr>2024-06-09</nobr> | Who are the winners and losers in the hosting industry of this week? Why now got the numbers and share it with you. Every we check more then 240 millions website IPs and assign them to an ASN. With that information we know what is happening in the market.# 
-| <nobr>2024-06-02</nobr> | For every tier 1 hoster (hosting company with their own ASN) we show the number of new and the number of leaving customers on a weekly base.                                                                                                                     |
+| Date                    | Feature Description                                                                                                                                                                                                                                                                         |
+|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <nobr>2024-06-20</nobr> | The product reached a beta stage. This means you can already use it and the data it provides it already helpful. But we are still working on making the data better and better. This time we optimized the algorithms that identifies hosting companies in the sea of 250 million websites. 
+| <nobr>2024-06-13</nobr> | We love the build in public approach. That is why sometimes features you would expect to be there are coming later. This for example is true for the possibility to change you password. It's live now.                                                                                     
+| <nobr>2024-06-09</nobr> | Who are the winners and losers in the hosting industry of this week? Why now got the numbers and share it with you. Every we check more then 240 millions website IPs and assign them to an ASN. With that information we know what is happening in the market.#                            
+| <nobr>2024-06-02</nobr> | For every tier 1 hoster (hosting company with their own ASN) we show the number of new and the number of leaving customers on a weekly base.                                                                                                                                                |
 
 ## May 2024
 

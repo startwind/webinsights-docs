@@ -1,5 +1,12 @@
 # Changelog
 
+## July 2024
+
+| Date                    | Feature Description                                                                                                                                                                               |
+|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <nobr>2024-07-06</nobr> | We enriched the hosting company data with social media profiles. Now you can see the different links on the companies detail page. At the moment we recognize LinkedIn, Twitter (X) and Facebook. |
+
+
 ## June 2024
 
 | Date                    | Feature Description                                                                                                                                                                                                                                              |
